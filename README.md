@@ -3,7 +3,7 @@ This project lists all world countries and shows detailed information on each co
 Uses (this)[https://restcountries.eu] open RESTful API to fetch data.
 
 **Features**
-* MVP architecure
+* MVP architecture
 * API integration
 * Retrofit
 * Material Design
