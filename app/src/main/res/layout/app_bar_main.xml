@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.kyn.knowyounation.main.MainActivity">
+    tools:context="com.ninetyone.projects.atlas.main.MainActivity">
 
     <include layout="@layout/content_main" />
 
